@@ -1,55 +1,68 @@
 <h1 align="center">🚀 Diego Allies</h1>
-<h3 align="center">Full Stack Developer | Product Builder | System Integrator</h3>
+<h3 align="center">Full Stack Engineer | Cloud-Ready Developer | Real-World Software Builder</h3>
 
 <p align="center">
-  <em>Coding efficient systems for real people in real industries.</em><br>
-  <em>Based in South Africa | Working remotely worldwide</em>
+  <strong>Crafting scalable solutions with precision and purpose.</strong><br>
+  <em>From frontend finesse to backend performance — built to work, built to last.</em>
 </p>
 
 ---
 
-### 🔧 What I Do
+### 🧠 About Me
 
-- **Full Stack Engineering** — Scalable apps using Vue 3, React, Next.js, TypeScript, Node.js & C# (.NET)
-- **Backend/API Design** — Secure, performant REST APIs with PostgreSQL, Dapper, MySQL, and SQLite
-- **Cloud & DevOps** — AWS, Azure DevOps, CI/CD pipelines, Cognito/OIDC auth systems, Firebase
-- **Data & Visualization** — Weather APIs, Google Maps integrations, dynamic dashboards & field monitoring tools
-- **System Integrations** — Third-party APIs (Metos, Firebase, etc), secure authentication flows, webhook/event systems
-- **Cross-Domain Delivery** — Experience in agriculture, education, safety, real estate, and hospitality platforms
+I'm **Diego Allies**, a passionate full stack engineer with a track record of building smart, scalable, and cloud-native software.
 
----
-
-### 🛠 Tech Stack & Tools
-
-[![Diego's Stack](https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,nodejs,csharp,dotnet,postgresql,mysql,sqlite,mongodb,firebase,aws,azure,tailwind,html,css,git,github)](https://skillicons.dev)
+- ✨ Expertise across **frontend**, **backend**, **DevOps**, and **cloud architecture**
+- 🧩 Hands-on with **Vue.js**, **Next.js**, **React**, **TypeScript**, **Node.js**, **C# (.NET)**, and more
+- 🌐 Integrated real-time APIs, authentication systems, and mapping tech (Google Maps, Metos)
+- ☁️ Deploying on **AWS**, **Azure**, and **Firebase** with automated CI/CD pipelines
+- 🛠 Built systems across multiple industries: **agriculture**, **education**, **safety**, **real estate**, and **hospitality**
 
 ---
 
-### ✨ Highlights
+### 🔧 Tech Stack
 
-- Built **real-time map-based dashboards** with weather overlays and dynamic field data (Metos integration)
-- Designed **custom authentication systems** using **AWS Cognito + OIDC** for secure multi-role access
-- Created tools for **agricultural data tracking**, **school assessment rating**, and **public safety awareness**
-- Automated deployments, logging, and **environment-based DevOps** across multiple cloud stacks
-- Developed internal tooling & platforms used by **top brands and growing startups**
+#### Languages & Frameworks  
+![Languages](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,csharp,dotnet)
 
----
+#### Databases & Cloud  
+![Cloud](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase,aws,azure)
 
-### 📫 Let’s Talk
-
-- Portfolio: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)  
-- Email: [diegoallies27@gmail.com](mailto:diegoallies27@gmail.com)
+#### Tools & DevOps  
+![Tools](https://skillicons.dev/icons?i=git,github,linux,jira,azuredevops,tailwind)
 
 ---
 
-### ☕ Support My Craft
+### ⚡ Key Capabilities
 
-<p>
-<a href="https://paypal.me/DiegoAllies"><img src="http://www.logo-designer.co/wp-content/uploads/2014/05/PayPal-logo-design-Yves-Behar-Fuseproject.jpg" height="50" width="210" alt="Support Diego on PayPal" /></a>
+- **Full Stack Web Apps**: From pixel-perfect UIs to powerful APIs
+- **Authentication Systems**: OIDC, AWS Cognito, custom role-based flows
+- **Data Visualizations**: Live weather data, charts, Google Maps overlays
+- **DevOps Ready**: CI/CD, secure deployments, scalable infrastructure
+- **Industry-Proven Results**: Across agri-tech, safety, education, hospitality, and property tech
+
+---
+
+### 📫 Let's Connect
+
+- **Portfolio**: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)  
+- **Email**: [diegoallies27@gmail.com](mailto:diegoallies27@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+### ☕ Support My Work
+
+If you like what I do and want to show support:
+
+<p align="left">
+  <a href="https://paypal.me/diegoallies">
+    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" width="150" alt="Support Diego on PayPal" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-    <sub>README built with precision by <a href="https://github.com/diegoallies">Diego Allies</a></sub>
+  <sub>README built with purpose, performance, and a touch of caffeine by <a href="https://github.com/diegoallies">Diego Allies</a></sub>
 </div>
