@@ -1,61 +1,95 @@
 <h1 align="center">🚀 Diego Allies</h1>
-<h3 align="center">Full Stack Engineer | Cloud-Ready Developer | Real-World Software Builder</h3>
+<h3 align="center">Full Stack Engineer • Cloud-Native Developer • Software Systems Architect</h3>
 
 <p align="center">
-  <strong>Crafting scalable solutions with precision and purpose.</strong><br>
-  <em>From frontend finesse to backend performance — built to work, built to last.</em>
+  <b>Turning complex requirements into simple, scalable, and robust applications.</b><br>
+  <em>From clean frontend interfaces to resilient backend APIs — engineered for the real world.</em>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://diego-allies-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:diegoallies27@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-critical?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/diego-allies" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://paypal.me/diegoallies"><img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal" /></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm **Diego Allies**, a passionate full stack engineer with a track record of building smart, scalable, and cloud-native software.
+Hi, I’m Diego — a full stack software engineer focused on building **clean, maintainable, and cloud-ready systems** that drive real-world value.
 
-- ✨ Expertise across **frontend**, **backend**, **DevOps**, and **cloud architecture**
-- 🧩 Hands-on with **Vue.js**, **Next.js**, **React**, **TypeScript**, **Node.js**, **C# (.NET)**, and more
-- 🌐 Integrated real-time APIs, authentication systems, and mapping tech (Google Maps, Metos)
-- ☁️ Deploying on **AWS**, **Azure**, and **Firebase** with automated CI/CD pipelines
-- 🛠 Built systems across multiple industries: **agriculture**, **education**, **safety**, **real estate**, and **hospitality**
+- 🛠 **Tech stack specialist**: Vue 3, Next.js, React, TypeScript, .NET (C#), Node.js
+- 🧩 **Backend architecture**: PostgreSQL, MySQL, SQLite, Dapper ORM, RESTful APIs
+- ☁️ **DevOps-ready deployments**: CI/CD, AWS (EC2, RDS, Cognito), Azure DevOps, Firebase
+- 🗺️ **Domain experience**: Agriculture, EdTech, Safety, Real Estate, Hospitality
+- 🧭 **Obsessed with performance**, security, and developer experience
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Toolbox
 
-#### Languages & Frameworks  
+#### 💻 Languages & Frameworks
 ![Languages](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,csharp,dotnet)
 
-#### Databases & Cloud  
-![Cloud](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase,aws,azure)
+#### 🛢️ Databases & Cloud
+![Cloud](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,firebase,aws,azure)
 
-#### Tools & DevOps  
-![Tools](https://skillicons.dev/icons?i=git,github,linux,jira,azuredevops,tailwind)
-
----
-
-### ⚡ Key Capabilities
-
-- **Full Stack Web Apps**: From pixel-perfect UIs to powerful APIs
-- **Authentication Systems**: OIDC, AWS Cognito, custom role-based flows
-- **Data Visualizations**: Live weather data, charts, Google Maps overlays
-- **DevOps Ready**: CI/CD, secure deployments, scalable infrastructure
-- **Industry-Proven Results**: Across agri-tech, safety, education, hospitality, and property tech
+#### 🧪 DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=git,github,jira,linux,azuredevops,tailwind)
 
 ---
 
-### 📫 Let's Connect
+### ⚡ Key Skills & Capabilities
 
-- **Portfolio**: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)  
-- **Email**: [diegoallies27@gmail.com](mailto:diegoallies27@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 🧱 **Modular full-stack development** — scalable UI + API patterns  
+- 🔐 **Auth flows** — OIDC, Cognito, session tokens, and secure data access  
+- 🗺️ **Mapping systems** — Google Maps, Metos stations, geospatial overlays  
+- 🧩 **Third-party integrations** — weather APIs, webhook handling, analytics  
+- 🚀 **Cloud-first delivery** — Infrastructure you can rely on  
 
 ---
 
-### ☕ Support My Work
+### 🏆 GitHub Achievements
 
-If you like what I do and want to show support:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoallies&theme=onedark&title=Stars,Commits,Repositories,Followers,PullRequest" />
+</p>
 
-<p align="left">
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoallies&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoallies&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🌱 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=diegoallies&theme=github-compact" />
+</p>
+
+---
+
+### 📬 Get In Touch
+
+- 🌐 Portfolio: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)  
+- 📩 Email: [diegoallies27@gmail.com](mailto:diegoallies27@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies)
+
+---
+
+### ☕ Support My Craft
+
+If you like my work and want to support more side projects:
+
+<p align="center">
   <a href="https://paypal.me/diegoallies">
     <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" width="150" alt="Support Diego on PayPal" />
   </a>
@@ -64,5 +98,5 @@ If you like what I do and want to show support:
 ---
 
 <div align="center">
-  <sub>README built with purpose, performance, and a touch of caffeine by <a href="https://github.com/diegoallies">Diego Allies</a></sub>
+  <sub>Crafted with focus, caffeine, and purpose — by <a href="https://github.com/diegoallies">Diego Allies</a></sub>
 </div>
