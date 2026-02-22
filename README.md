@@ -84,7 +84,7 @@
 
 > Most of my professional work lives on AWS CodeCommit (private). GitHub shows personal and side projects.
 
-<img src="aws-commits-chart.png" alt="AWS CodeCommit Monthly Commits" />
+<img src="aws-monthly-commits.png" alt="AWS CodeCommit Monthly Commits" />
 
 <table>
 <tr>
