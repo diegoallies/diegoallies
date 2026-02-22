@@ -90,7 +90,6 @@
 | Lines added | 2.5M+ |
 | Files modified | 5,946 |
 
-**Key repos:** `psa-rest-services` `psa-react-frontend` `psa-grower-vue-js` `psa-serverless-web-apps` `psa-mobile-flutter` `psa-serverless-go-app` `psa-batch-processor`
 
 ---
 
