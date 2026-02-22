@@ -84,13 +84,14 @@
 
 > Most of my professional work lives on AWS CodeCommit (private). GitHub shows personal and side projects.
 
-<img src="aws-commits-chart.png" alt="AWS CodeCommit Commits by Repo" />
+<img src="aws-commits-chart.png" alt="AWS CodeCommit Monthly Commits" />
 
 <table>
 <tr>
-<td><img src="aws-commits-donut.png" width="200" alt="3,799 Commits" /></td>
-<td><img src="aws-lines-donut.png" width="200" alt="2.5M+ Lines" /></td>
-<td><img src="aws-files-donut.png" width="200" alt="5,946 Files" /></td>
+<td align="center"><h3>🟣 3,799</h3><sub>Total Commits</sub></td>
+<td align="center"><h3>🔵 2.5M+</h3><sub>Lines Added</sub></td>
+<td align="center"><h3>🟣 5,946</h3><sub>Files Modified</sub></td>
+<td align="center"><h3>🟠 7</h3><sub>Active Repos</sub></td>
 </tr>
 </table>
 
