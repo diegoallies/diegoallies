@@ -1,102 +1,115 @@
-<h1 align="center">🚀 Diego Allies</h1>
-<h3 align="center">Full Stack Engineer • Cloud-Native Developer • Software Systems Architect</h3>
+<h1 align="center">Hey, I'm Diego Allies</h1>
+<h3 align="center">Senior Software Engineer - Kimberley, South Africa</h3>
 
 <p align="center">
-  <b>Turning complex requirements into simple, scalable, and robust applications.</b><br>
-  <em>From clean frontend interfaces to resilient backend APIs — engineered for the real world.</em>
+  Currently building at <strong>Waltworks</strong> (agricultural tech) & <strong>GuardNexus</strong> (security ops)
+</p>
+
+<p align="center">
+  <a href="https://diego-allies-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diego-allies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:diego@guardnexus.co.za"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
+### Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### GitHub Stats
+
 <p align="center">
-  <a href="https://diego-allies-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:diegoallies27@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-critical?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/diego-allies" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://paypal.me/diegoallies"><img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal" /></a>
+  <img src="https://github-readme-stats-steel-xi-16.vercel.app/api?username=diegoallies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats-steel-xi-16.vercel.app/api/top-langs/?username=diegoallies&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoallies&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-### 🧠 About Me
+### AWS CodeCommit Activity (PSA/Waltworks)
 
-Hi, I’m Diego — a full stack software engineer focused on building **clean, maintainable, and cloud-ready systems** that drive real-world value.
+> Most of my professional work lives on AWS CodeCommit (private). GitHub shows personal and side projects.
 
-- 🛠 **Tech stack specialist**: Vue 3, Next.js, React, TypeScript, .NET (C#), Node.js
-- 🧩 **Backend architecture**: PostgreSQL, MySQL, SQLite, Dapper ORM, RESTful APIs
-- ☁️ **DevOps-ready deployments**: CI/CD, AWS (EC2, RDS, Cognito), Azure DevOps, Firebase
-- 🗺️ **Domain experience**: Agriculture, EdTech, Safety, Real Estate, Hospitality
-- 🧭 **Obsessed with performance**, security, and developer experience
+| Metric | Value |
+|--------|-------|
+| Commits (past 12 months) | 3,799 across 7 repos |
+| Lines added | 2.5M+ |
+| Files modified | 5,946 |
 
----
-
-### 🧰 Tech Toolbox
-
-#### 💻 Languages & Frameworks
-![Languages](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,csharp,dotnet)
-
-#### 🛢️ Databases & Cloud
-![Cloud](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,firebase,aws,azure)
-
-#### 🧪 DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=git,github,jira,linux,azuredevops,tailwind)
+**Key repos:** `psa-rest-services` `psa-react-frontend` `psa-grower-vue-js` `psa-serverless-web-apps` `psa-mobile-flutter` `psa-serverless-go-app` `psa-batch-processor`
 
 ---
 
-### ⚡ Key Skills & Capabilities
+### Certifications
 
-- 🧱 **Modular full-stack development** — scalable UI + API patterns  
-- 🔐 **Auth flows** — OIDC, Cognito, session tokens, and secure data access  
-- 🗺️ **Mapping systems** — Google Maps, Metos stations, geospatial overlays  
-- 🧩 **Third-party integrations** — weather APIs, webhook handling, analytics  
-- 🚀 **Cloud-first delivery** — Infrastructure you can rely on  
+- **Microsoft Azure AI Engineer Associate** (2024)
 
 ---
 
-### 🏆 GitHub Achievements
+### Currently Building
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoallies&theme=onedark&title=Stars,Commits,Repositories,Followers,PullRequest" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoallies&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoallies&layout=compact&theme=tokyonight" height="165" />
-</p>
+- **GuardNexus** - Security operations platform
+- **SheepLedger** - Livestock management app
+- **Waltworks PSA** - Agricultural monitoring systems
 
 ---
 
-### 🌱 Contribution Activity
+### Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=diegoallies&theme=github-compact" />
-</p>
-
----
-
-### 📬 Get In Touch
-
-- 🌐 Portfolio: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)  
-- 📩 Email: [diegoallies27@gmail.com](mailto:diegoallies27@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies)
-
----
-
-### ☕ Support My Craft
-
-If you like my work and want to support more side projects:
-
-<p align="center">
-  <a href="https://paypal.me/diegoallies">
-    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" width="150" alt="Support Diego on PayPal" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>Crafted with focus, caffeine, and purpose — by <a href="https://github.com/diegoallies">Diego Allies</a></sub>
-</div>
+- Portfolio: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)
+- LinkedIn: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies)
+- Email: [diego@guardnexus.co.za](mailto:diego@guardnexus.co.za)
