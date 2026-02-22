@@ -84,11 +84,15 @@
 
 > Most of my professional work lives on AWS CodeCommit (private). GitHub shows personal and side projects.
 
-| Metric | Value |
-|--------|-------|
-| Commits (past 12 months) | 3,799 across 7 repos |
-| Lines added | 2.5M+ |
-| Files modified | 5,946 |
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['rest-services','react-frontend','grower-vue','serverless-web','mobile-flutter','serverless-go','batch-processor'],datasets:[{label:'Commits (12 months)',data:[892,756,634,521,448,312,236],backgroundColor:['%237C3AED','%236D28D9','%235B21B6','%234C1D95','%23818CF8','%23A78BFA','%23C4B5FD']}]},options:{plugins:{legend:{labels:{color:'%23fff'}}},scales:{x:{ticks:{color:'%23ccc'}},y:{ticks:{color:'%23ccc'},grid:{color:'%23333'}}},layout:{padding:10}}}&backgroundColor=%230D1117&width=600&height=300" alt="AWS CodeCommit Commits" />
+
+<table>
+<tr>
+<td><img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['3,799 Commits'],datasets:[{data:[3799,1201],backgroundColor:['%237C3AED','%231a1a2e']}]},options:{plugins:{legend:{labels:{color:'%23fff'}}}}}&backgroundColor=%230D1117&width=200&height=200" width="200" /></td>
+<td><img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['2.5M+ Lines'],datasets:[{data:[2500000,500000],backgroundColor:['%2306B6D4','%231a1a2e']}]},options:{plugins:{legend:{labels:{color:'%23fff'}}}}}&backgroundColor=%230D1117&width=200&height=200" width="200" /></td>
+<td><img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['5,946 Files'],datasets:[{data:[5946,2054],backgroundColor:['%23818CF8','%231a1a2e']}]},options:{plugins:{legend:{labels:{color:'%23fff'}}}}}&backgroundColor=%230D1117&width=200&height=200" width="200" /></td>
+</tr>
+</table>
 
 
 ---
