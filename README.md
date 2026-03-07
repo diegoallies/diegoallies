@@ -2,11 +2,11 @@
 <h3 align="center">Senior Software Engineer - Kimberley, South Africa</h3>
 
 <p align="center">
-  Currently building at <strong>Waltworks</strong> (agricultural tech) & <strong>GuardNexus</strong> (security ops)
+  Currently building at <strong>Waltworks</strong> (agricultural tech) & <strong>GuardNexus</strong> (security ops) & <strong>KraalBook</strong> (livestock management)
 </p>
 
 <p align="center">
-  <a href="https://diego-allies-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://diegoallies.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diego-allies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:diego@guardnexus.co.za"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -50,6 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -88,10 +89,10 @@
 
 <table>
 <tr>
-<td align="center"><h3>🟣 3,799</h3><sub>Total Commits</sub></td>
-<td align="center"><h3>🔵 2.5M+</h3><sub>Lines Added</sub></td>
-<td align="center"><h3>🟣 5,946</h3><sub>Files Modified</sub></td>
-<td align="center"><h3>🟠 7</h3><sub>Active Repos</sub></td>
+<td align="center"><h3>🟣 6,662</h3><sub>Total Commits</sub></td>
+<td align="center"><h3>🔵 3.5M+</h3><sub>Lines Added</sub></td>
+<td align="center"><h3>🟣 8,200+</h3><sub>Files Modified</sub></td>
+<td align="center"><h3>🟠 19</h3><sub>Active Repos</sub></td>
 </tr>
 </table>
 
@@ -106,14 +107,16 @@
 
 ### Currently Building
 
+- **Waltworks PSA** - Agricultural monitoring systems (Vue.js, .NET, AWS)
 - **GuardNexus** - Security operations platform
-- **SheepLedger** - Livestock management app
-- **Waltworks PSA** - Agricultural monitoring systems
+- **KraalBook** - Livestock management app (Flutter, Supabase)
+- **WatchTower** - Neighbourhood watch & community safety app (Next.js, Supabase)
+- **Skatkis** - Secondhand ecommerce platform (Next.js, Supabase, MUI)
 
 ---
 
 ### Connect
 
-- Portfolio: [diego-allies-portfolio.vercel.app](https://diego-allies-portfolio.vercel.app)
+- Portfolio: [diegoallies.com](https://diegoallies.com)
 - LinkedIn: [linkedin.com/in/diego-allies](https://www.linkedin.com/in/diego-allies)
 - Email: [diego@guardnexus.co.za](mailto:diego@guardnexus.co.za)
