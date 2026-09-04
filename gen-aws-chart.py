@@ -13,9 +13,9 @@ from matplotlib.ticker import MultipleLocator
 
 # rolling 12-month window (oldest -> newest). Advance by dropping the front and
 # appending the newest month(s).
-MONTHS = ["Aug","Sep","Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul"]
-YEARS  = {0: "25", 5: "26"}          # year caption under Aug 25 and Jan 26
-VALUES = [345, 355, 370, 380, 395, 395, 300, 335, 310, 290, 420, 410]
+MONTHS = ["Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep"]
+YEARS  = {0: "25", 3: "26"}          # year caption under Oct 25 and Jan 26
+VALUES = [77, 114, 110, 228, 180, 126, 101, 243, 745, 473, 100, 40]
 
 BG = "#0d1117"; BAR = "#7c6cf5"; GRID = "#21262d"; TXT = "#c9d1d9"; MUT = "#8b949e"
 total = sum(VALUES)
@@ -32,8 +32,8 @@ for xi, v in zip(x, VALUES):
 ax.set_title(f"AWS CodeCommit — Monthly Commits ({total:,} total)",
              color="#f0f6fc", fontsize=17, fontweight="bold", pad=22)
 ax.set_ylabel("Commits", color=MUT, fontsize=12)
-ax.set_ylim(0, 440)
-ax.yaxis.set_major_locator(MultipleLocator(100))
+ax.set_ylim(0, 820)
+ax.yaxis.set_major_locator(MultipleLocator(200))
 ax.tick_params(colors=MUT, labelsize=11, length=0)
 ax.set_xticks(list(x))
 ax.set_xticklabels(MONTHS, color=MUT, fontsize=12)
