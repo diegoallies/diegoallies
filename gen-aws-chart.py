@@ -13,9 +13,9 @@ from matplotlib.ticker import MultipleLocator
 
 # rolling 12-month window (oldest -> newest). Advance by dropping the front and
 # appending the newest month(s).
-MONTHS = ["Oct","Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep"]
-YEARS  = {0: "25", 3: "26"}          # year caption under Oct 25 and Jan 26
-VALUES = [77, 114, 110, 402, 182, 126, 101, 243, 745, 473, 100, 40]
+MONTHS = ["Nov","Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct"]
+YEARS  = {0: "25", 2: "26"}          # year caption under Nov 25 and Jan 26
+VALUES = [114, 110, 402, 182, 126, 101, 243, 745, 473, 100, 300, 247]
 
 BG = "#0d1117"; BAR = "#7c6cf5"; GRID = "#21262d"; TXT = "#c9d1d9"; MUT = "#8b949e"
 total = sum(VALUES)
